@@ -1,0 +1,12 @@
+{
+  "name": "caffeinehit-map",
+  "app_id": "1a8f02d3",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
